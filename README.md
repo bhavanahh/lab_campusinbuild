@@ -2,6 +2,7 @@
 
 ## About
 
+
 Student communities in colleges often face confusion and delays while booking labs due to manual permission processes and lack of clear availability information.
 
 This project aims to simplify lab booking by providing a **web-based system** to check lab availability and manage permission approvals in one place.
