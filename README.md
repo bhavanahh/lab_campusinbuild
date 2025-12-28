@@ -30,7 +30,7 @@ The system allows users to check lab availability, request permissions digitally
 
 ## Tech Stack (Planned)
 - Frontend: HTML, CSS, JavaScript
-- Backend: Python (Flask)
+- Backend: Python FastApi
 - Database: SQLite / Firebase
 - Version Control: Git & GitHub
 
