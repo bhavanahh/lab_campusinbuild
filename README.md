@@ -37,7 +37,7 @@ The system allows users to check lab availability, request permissions digitally
 ---
 
 ## Team
-- Bhavana – SCRUM Lead  
+- Bhavana - SCRUM Lead  
 - Aravind  
 - Justin  
 - Sharath  
