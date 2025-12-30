@@ -2,6 +2,7 @@
 
 CampusConnect is a web-based application designed to simplify **lab availability checking and permission management** for college communities.
 
+
 ---
 
 ## Problem Statement
