@@ -30,9 +30,9 @@ The system allows users to check lab availability, request permissions digitally
 ---
 
 ## Tech Stack (Planned)
-- Frontend: HTML, CSS, JavaScript
-- Backend: Python FastApi
-- Database: SQLite / Firebase
+- Frontend:Next.js
+- Backend: Next.js
+- Database: Firebase
 - Version Control: Git & GitHub
 
 ---
