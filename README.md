@@ -11,6 +11,7 @@ In colleges, student communities often face confusion and delays while booking l
 
 ---
 
+
 ## Solution
 Campusync provides a **single platform** that connects:
 - Community Leads
